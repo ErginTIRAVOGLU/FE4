@@ -16,7 +16,7 @@ body,html{
 section.header{
     height: 100vh;
     width: 100%;
-    background-image: url(/assets/images/city-1868530_1920.jpg);
+    background-image: url(assets/images/city-1868530_1920.jpg);
     background-size: cover;
 
     .topMenu{
@@ -41,7 +41,7 @@ section.header{
 
 }
 section.firstRow{
-    background-image: url(/assets/images/man-1485335_1920.jpg);
+    background-image: url(assets/images/man-1485335_1920.jpg);
     background-size: cover;
     background-position: center;
     .wrapper{
@@ -116,7 +116,7 @@ section.firstRow{
     }
 }
 section.main {
-    background-image: url(/assets/images/entrepreneur-593371_1920.jpg);
+    background-image: url(assets/images/entrepreneur-593371_1920.jpg);
     background-size: cover;
      
     .secondRow{
@@ -320,4 +320,4 @@ section.footer{
         }
     }
     
-}
+} 
