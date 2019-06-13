@@ -1,5 +1,5 @@
 # FE4
-Frontend referansları 4
+Frontend referansları 4 (Responsive Tasarım)
 
 Kullanılan kütüphane ve teknolojiler : scss, bootstrap, google fonts, fontsawesome
 
